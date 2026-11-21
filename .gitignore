@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+server/data/messages.json
+npm-debug.log*
+.DS_Store
+Thumbs.db
+*.log
